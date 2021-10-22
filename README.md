@@ -7,7 +7,7 @@
 2. [Bash](https://yadi.sk/i/b_JIb1LyNyOT3A)
 3. [Markdown](https://yadi.sk/i/WLklL6vG9nHGLA) 
 4. [Yaml](https://yadi.sk/i/MdEB16asg_OI9A)
-5. [Jsonnet](https://yadi.sk/i/CCObbG0HVUVe8w) 
+5. [Jsonnet](https://yadi.sk/i/RyPS_tSs--0kng) 
 
 ### Задание 2
 
