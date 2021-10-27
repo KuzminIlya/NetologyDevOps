@@ -77,4 +77,7 @@
 
 ![githelp](resources/githelp.jpg)
 
+Периодически пользовался как git --help, так и git -h
+мануал смотрел на https://git-scm.com/docs
+
   
