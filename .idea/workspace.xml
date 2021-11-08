@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="2.2 Основы Git. Задание 4.">
-      <change afterPath="$PROJECT_DIR$/HW_2.3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/branching/merge.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/branching/rebase.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_2.3/branching/merge.sh" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.3/branching/merge.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
