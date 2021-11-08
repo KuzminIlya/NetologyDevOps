@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/pycharm_changed.jpg" afterDir="false" />
+    <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="2.2 Основы Git. Задание 4.">
+      <change afterPath="$PROJECT_DIR$/HW_2.3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.3/branching/merge.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.3/branching/rebase.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_2.2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +27,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW_2.3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Repositories\Netology\NetologyDevOps\HW_2.3" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,6 +54,14 @@
       <workItem from="1635782515630" duration="1189000" />
       <workItem from="1636382525704" duration="5140000" />
     </task>
+    <task id="LOCAL-00001" summary="2.2 Основы Git. Задание 4.">
+      <created>1636393650177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636393650177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,5 +78,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.2 Основы Git. Задание 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="2.2 Основы Git. Задание 4." />
   </component>
 </project>
