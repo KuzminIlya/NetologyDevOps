@@ -63,3 +63,11 @@
 ![fix_log](resources/fix_log.jpg)
 
 ## Задание 4. Упрощаем себе жизнь
+
+**Измененный файл Readme в PyCharm**
+
+![pycharm_changed](resources/pycharm_changed.jpg)
+
+**Коммитим изменения в master**
+
+![pycharm_commit](resources/pycharm_commit.jpg)
