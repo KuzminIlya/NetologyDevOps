@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW_2.1/files/will_be_deleted.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.1/files/will_be_moved.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.1/resources/gitignore_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_2.1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.1/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
