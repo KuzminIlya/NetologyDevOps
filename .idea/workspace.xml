@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW_2.1/resources/movedelete_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/init_git_remote.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,8 @@
       <updated>1635360786923</updated>
       <workItem from="1635360788035" duration="3487000" />
       <workItem from="1635364586054" duration="4575000" />
+      <workItem from="1635782515630" duration="1189000" />
+      <workItem from="1636382525704" duration="2234000" />
     </task>
     <servers />
   </component>
