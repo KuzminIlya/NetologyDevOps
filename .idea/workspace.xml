@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="2.2 Основы Git. Задание 4.">
-      <change beforePath="$PROJECT_DIR$/HW_2.3/branching/merge.sh" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.3/branching/merge.sh" afterDir="false" />
-    </list>
+    <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="2.2 Основы Git. Задание 4." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
