@@ -48,6 +48,18 @@
 
 ## Задание 3. Ветки
 
+1. Создание ветки Fix
 
+![fix_branch_create](resources/fix_branch_create.jpg)
+
+2. Коммитим изменения Readme в новую ветку
+
+**Граф репозитория после пуша**
+
+![fix_graph](resources/fix_graph.jpg)
+
+**Вывод git log**
+
+![fix_log](resources/fix_log.jpg)
 
 ## Задание 4. Упрощаем себе жизнь
