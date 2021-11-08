@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/bitbucket.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/github.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/gitlab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/res_git_remote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/tag00_terminal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.2/resources/tag01_terminal.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW_2.2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.2/README.md" afterDir="false" />
     </list>
@@ -47,7 +45,7 @@
       <workItem from="1635360788035" duration="3487000" />
       <workItem from="1635364586054" duration="4575000" />
       <workItem from="1635782515630" duration="1189000" />
-      <workItem from="1636382525704" duration="3744000" />
+      <workItem from="1636382525704" duration="4728000" />
     </task>
     <servers />
   </component>

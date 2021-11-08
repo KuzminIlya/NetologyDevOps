@@ -32,7 +32,19 @@
 
 ## Задание 2. Теги
 
+1. Разница между аннотированным и легковестным
 
+![tag01](resources/tag01_terminal.jpg)
+
+![tag00](resources/tag00_terminal.jpg)
+
+2. Теги в удаленных репозиториях:
+
+![tags_github](resources/tags_github.jpg)
+
+![tags_gitlab](resources/tags_gitlab.jpg)
+
+![tags_bitbucket](resources/tags_bitbucket.jpg)
 
 ## Задание 3. Ветки
 
