@@ -5,30 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0090f6a1-8b24-456b-b354-cf2304c21ac1" name="Changes" comment="2.2 Основы Git. Задание 4.">
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/fuckup_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/init_commit_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/init_commit_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/master_commit_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/master_commit_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/merge_commit_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/merge_commit_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/merge_commit_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/merge_master_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/merge_master_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/merge_master_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_commit_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_commit_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_commit_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2.3/resources/rebase_master_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.4/resources/ins_9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_2.3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW_2.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HW_2.4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -64,13 +56,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Repositories\Netology\NetologyDevOps\HW_2.4" />
       <recent name="I:\Repositories\Netology\NetologyDevOps\HW_2.3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="116edd32-ce52-4abf-8972-d68d2e10adb2" name="Changes" comment="" />
+      <changelist id="0090f6a1-8b24-456b-b354-cf2304c21ac1" name="Changes" comment="2.2 Основы Git. Задание 4." />
       <created>1635360786923</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -79,6 +72,7 @@
       <workItem from="1635364586054" duration="4575000" />
       <workItem from="1635782515630" duration="1189000" />
       <workItem from="1636382525704" duration="5140000" />
+      <workItem from="1636620160739" duration="6911000" />
     </task>
     <task id="LOCAL-00001" summary="2.2 Основы Git. Задание 4.">
       <created>1636393650177</created>
